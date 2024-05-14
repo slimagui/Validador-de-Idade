@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(51, 80, 241);
+    font: normal 15px arial;
+}
+header {
+    background-color: #1a946b; /* cor do fundo */
+    color: white; /* cor da letra */
+    text-align: center;
+    box-shadow: 5px 5px 10px black; /* cor da sombra */
+    width: 300px; /* largura */
+    border-radius: 100px; /* borda da section */
+    margin: auto; /* centralizar */
+}
+footer {
+    color: white; /* cor da letra */
+    background-color: #1a946b; /* cor do fundo */
+    text-align: center;
+    font-style: italic; /* estilo da fonte */
+    box-shadow: 5px 5px 10px black;/* cor da sombra */
+    width: 150px; /* largura */
+    border-radius: 50px; /* borda da section */
+    margin: auto; /* centralizar */
+}
+section {
+    background: white; /* cor do fundo */
+    border-radius: 10px; /* borda da section */
+    padding: 15px; /* espaço */
+    width: 500px; /* largura */
+    margin: auto; /* centralizar */
+    box-shadow: 5px 5px 10px black; /* cor da sombra */
+}
+img {
+    border-radius: 50%;
+    box-shadow: 5px 5px 10px;
+}
